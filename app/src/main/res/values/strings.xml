@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">About Me</string>
+    <string name="app_name">AboutMe</string>
 
     <string name="myName">Graciele Ludwig</string>
     <string name="aboutMeTextView">Hey, welcome to my world,
