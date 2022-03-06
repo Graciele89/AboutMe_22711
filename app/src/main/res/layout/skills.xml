@@ -47,6 +47,7 @@
             android:layout_height="match_parent"
             android:text="@string/mySkills"
             android:textAlignment="center"
+            android:padding="5dp"
             android:textSize="20sp" />
 
     </LinearLayout>

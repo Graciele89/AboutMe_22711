@@ -59,19 +59,18 @@
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:gravity="center"
-                android:orientation="horizontal">
+                android:orientation="vertical">
 
                 <TextView
                     android:id="@+id/aboutMeTextView"
-                    android:layout_width="270dp"
+                    android:layout_width="350dp"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="0dp"
                     android:fontFamily="sans-serif"
-                    android:padding="17dp"
+                    android:padding="5dp"
                     android:text="@string/aboutMeTextView"
                     android:textAlignment="center"
-                    android:textColor="@color/black"
-                    android:textSize="15sp" />
+                    android:textSize="20sp" />
             </LinearLayout>
 
              <LinearLayout

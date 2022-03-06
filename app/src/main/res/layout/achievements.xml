@@ -45,6 +45,7 @@
             android:layout_height="match_parent"
             android:text="@string/myAchievements"
             android:textAlignment="center"
+            android:padding="5dp"
             android:textSize="20sp" />
 
     </LinearLayout>

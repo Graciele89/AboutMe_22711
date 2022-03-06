@@ -1,11 +1,13 @@
 <resources>
-    <string name="app_name">AboutMe</string>
+    <string name="app_name">About Me</string>
 
     <string name="myName">Graciele Ludwig</string>
     <string name="aboutMeTextView">Hello, welcome to my personal app,
-        I am an enthusiastic student living in Ireland since October 2018,
-        and this app is part of many of others skills I have learned
-        during my journey at Dorset College in Dublin. This is my first
+        I am an enthusiastic student living in Ireland since October 2018 when I left behind my
+        lovely family in Brazil to strive for new opportunities and personal growth in Ireland.
+        Here I am living with a marvelous and kind irish family which I love and care so much.
+        I consider myself blessed, despite difficulties I am always surrounded
+        by people who helped me and motivate me to keep working hard to follow my dreams. This is my first
         mobile application, hope you enjoy know a little bit more about myself!</string>
 
     <string name="copy_rightText">© Copyright Graciele Maria Ludwig 2022</string>
@@ -16,9 +18,10 @@
 
     <!--  ACTIVITY EDUCATION   -->
     <string name="EducationTitle">EDUCATION</string>
-    <string name="myEducation">Bachelor of International Business
-        UCS - Universidade de Caxias do Sul - RS, and now studying Bachelor of Science in Computing at
-        Dorset College - Dublin,  since 2020.</string>
+    <string name="myEducation">In Brazil I finished a Bachelor of International Business at
+        UCS - Universidade de Caxias do Sul - RS, and now I am studying Bachelor of Science in Computing at
+        Dorset College - Dublin,  since 2020. My native language was German till I went to school in Brazil
+        and learned portuguese, and the last few years I am practicing some English</string>
     <string name="returnButtonEducation">HOME</string>
     <string name="nextButtonEducation">NEXT</string>
 

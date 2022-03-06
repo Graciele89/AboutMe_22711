@@ -46,7 +46,8 @@
                 android:layout_height="match_parent"
                 android:text="@string/myEducation"
                 android:textAlignment="center"
-                android:textSize="20sp" />
+                android:textSize="20sp"
+                android:padding="5dp"/>
 
         </LinearLayout>
 
