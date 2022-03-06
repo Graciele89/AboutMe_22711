@@ -56,6 +56,7 @@ And all you keep is that more you practice, better you get!
 [Navigating between activities] (https://www.youtube.com/watch?v=629qVxiWonM)
 [material.io] (https://material.io/components/buttons-floating-action-button#usage)
 [shape your image] (https://youtu.be/jihLJ0oVmGo)
+
 ## App-debug.apk file
-link to my app:
-link to my youtube video:
+link to my app: https://github.com/Graciele89/AboutMe_22711/releases/tag/Version1.2
+link to my youtube video:  https://youtu.be/pwsGHvxG_Fg
