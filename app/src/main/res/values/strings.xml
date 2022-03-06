@@ -2,11 +2,11 @@
     <string name="app_name">AboutMe</string>
 
     <string name="myName">Graciele Ludwig</string>
-    <string name="aboutMeTextView">Hey, welcome to my world,
-        I am an enthusiastic student living in Ireland since 2018,
+    <string name="aboutMeTextView">Hello, welcome to my personal app,
+        I am an enthusiastic student living in Ireland since October 2018,
         and this app is part of many of others skills I have learned
         during my journey at Dorset College in Dublin. This is my first
-        mobile application, hope you enjoy my work!</string>
+        mobile application, hope you enjoy know a little bit more about myself!</string>
 
     <string name="copy_rightText">© Copyright Graciele Maria Ludwig 2022</string>
     <string name="buildWith">Built with Android Studio</string>
@@ -17,30 +17,37 @@
     <!--  ACTIVITY EDUCATION   -->
     <string name="EducationTitle">EDUCATION</string>
     <string name="myEducation">Bachelor of International Business
-        UCS - Universidade de Caxias do Sul
-        Bachelor of Science in Computing -
-        Dorset College - Dublin,  since 2020</string>
+        UCS - Universidade de Caxias do Sul - RS, and now studying Bachelor of Science in Computing at
+        Dorset College - Dublin,  since 2020.</string>
     <string name="returnButtonEduc">RETURN</string>
     <string name="nextButtonEduc">NEXT</string>
 
     <!--  ACTIVITY SKILLS   -->
     <string name="SkillsTitle">SKILLS</string>
-    <string name="mySkills"> Critical thinking, Communication, Creativity,
-        Flexibility,Teamwork, Professional Ethics, Responsibility</string>
+    <string name="mySkills">Some of my skills are: Critical thinking, Communication, Creativity,
+        Flexibility,Teamwork, Professional Ethics, Responsibility and now learning a lot of new skills
+        in science in computing.</string>
+    <string name="returnButtonSkills">RETURN</string>
+    <string name="nextButtonSkills">NEXT</string>
 
     <!--  ACTIVITY HOBBIES   -->
     <string name="HobbiesTitle">HOBBIES</string>
-    <string name="myHobbies">In my free time, I want to stay as far as I can from my pc,
-        for stretching I like practise Yoga, watch series on Netflix, painting,
-        dance, listen to music, hiking and cycling. </string>
+    <string name="myHobbies">In my free time, I want to stay as far as I can from my pc.
+        For relaxing and stretching I like practise Yoga,sometimes watch series on Netflix, painting,
+        dance, listen to music, hiking and cycling.To be honest, sometimes feels like the day should
+        have thirty hours for we be able to do everything and still have some free time for our hobbies.</string>
+    <string name="returnButtonHobbies">RETURN</string>
+    <string name="nextButtonHobbies">NEXT</string>
 
     <!--  ACTIVITY ACHIEVEMENTS   -->
     <string name="AchievementsTitle">ACHIEVEMENTS</string>
-    <string name="myAchievements">The first of my family to leave Brazil,
-        doing my second degree in Europe. When you live far away from your home town,
+    <string name="myAchievements">The first of my family to leave Brazil and traveling around Europe.
+        After finishing a degree in International Trade in Brazil, I decided to start a second degree in Europe.
+        When you live far away from your home town,
         anything you conquer looks a big achievement, you have to get a job to pay for your studies,
         a place for live with dignity, manage time to socialize and increase your network of friends.</string>
-
+    <string name="returnButtonAchiev">RETURN</string>
+    <string name="nextButtonachiev">NEXT</string>
 
 
 </resources>

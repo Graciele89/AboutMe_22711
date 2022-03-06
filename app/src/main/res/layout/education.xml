@@ -77,5 +77,26 @@
 
     </LinearLayout>
 
+    <TextView
+        android:id="@+id/copy_rights"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:layout_gravity="center"
+        android:textAlignment="center"
+        android:text="@string/copy_rightText">
+
+    </TextView>
+
+    <TextView
+        android:id="@+id/androidStudio"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textAlignment="center"
+        android:text="@string/buildWith">
+
+    </TextView>
+
 
 </LinearLayout>
