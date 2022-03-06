@@ -19,15 +19,15 @@
     <string name="myEducation">Bachelor of International Business
         UCS - Universidade de Caxias do Sul - RS, and now studying Bachelor of Science in Computing at
         Dorset College - Dublin,  since 2020.</string>
-    <string name="returnButtonEduc">RETURN</string>
-    <string name="nextButtonEduc">NEXT</string>
+    <string name="returnButtonEducation">HOME</string>
+    <string name="nextButtonEducation">NEXT</string>
 
     <!--  ACTIVITY SKILLS   -->
     <string name="SkillsTitle">SKILLS</string>
     <string name="mySkills">Some of my skills are: Critical thinking, Communication, Creativity,
         Flexibility,Teamwork, Professional Ethics, Responsibility and now learning a lot of new skills
         in science in computing.</string>
-    <string name="returnButtonSkills">RETURN</string>
+    <string name="returnButtonSkills">HOME</string>
     <string name="nextButtonSkills">NEXT</string>
 
     <!--  ACTIVITY HOBBIES   -->
@@ -36,7 +36,7 @@
         For relaxing and stretching I like practise Yoga,sometimes watch series on Netflix, painting,
         dance, listen to music, hiking and cycling.To be honest, sometimes feels like the day should
         have thirty hours for we be able to do everything and still have some free time for our hobbies.</string>
-    <string name="returnButtonHobbies">RETURN</string>
+    <string name="returnButtonHobbies">HOME</string>
     <string name="nextButtonHobbies">NEXT</string>
 
     <!--  ACTIVITY ACHIEVEMENTS   -->
@@ -46,8 +46,8 @@
         When you live far away from your home town,
         anything you conquer looks a big achievement, you have to get a job to pay for your studies,
         a place for live with dignity, manage time to socialize and increase your network of friends.</string>
-    <string name="returnButtonAchiev">RETURN</string>
-    <string name="nextButtonachiev">NEXT</string>
+    <string name="returnButtonAchievements">HOME</string>
+    <string name="exitButtonAchievements">EXIT</string>
 
 
 </resources>

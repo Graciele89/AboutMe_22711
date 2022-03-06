@@ -59,7 +59,7 @@
         android:layout_marginEnd="2dp">
 
         <Button
-            android:id="@+id/returnButtonEduc"
+            android:id="@+id/returnButtonHobbies"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginStart="15dp"
@@ -68,7 +68,7 @@
             android:text="@string/returnButtonHobbies" />
 
         <Button
-            android:id="@+id/nextButton"
+            android:id="@+id/nextButtonHobbies"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginEnd="15dp"

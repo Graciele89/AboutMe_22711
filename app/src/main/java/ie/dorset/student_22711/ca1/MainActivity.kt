@@ -12,7 +12,6 @@ import com.google.android.material.snackbar.Snackbar
 
 const val MAIN_ACT_KEY = "mainAct"
 class MainActivity : AppCompatActivity() {
-
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
