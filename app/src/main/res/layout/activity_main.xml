@@ -63,7 +63,7 @@
 
                 <TextView
                     android:id="@+id/aboutMeTextView"
-                    android:layout_width="350dp"
+                    android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="0dp"
                     android:fontFamily="sans-serif"
@@ -110,6 +110,17 @@
                     android:layout_gravity="center"
                     android:layout_margin="10dp"
                     android:text="@string/AchievementsTitle" />
+
+                 <ImageView
+                     android:id="@+id/exitHomeButton"
+                     android:layout_width="wrap_content"
+                     android:layout_height="wrap_content"
+                     android:layout_gravity="center"
+                     android:layout_margin="10dp"
+                     android:backgroundTint="#ffc4c4c4"
+                     app:srcCompat="@drawable/icon_shutdown"
+                     app:shapeAppearanceOverlay="@style/CircularShape" />
+
 
             </LinearLayout>
 

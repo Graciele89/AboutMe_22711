@@ -7,7 +7,7 @@
 
 
     <style name="CornerCut">
-        <item name="cornerSize">25dp</item>    //if 75dp will be a square standed shape
+        <item name="cornerSize">75dp</item>
         <item name="cornerFamily">cut</item>
     </style>
 

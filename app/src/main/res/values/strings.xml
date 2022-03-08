@@ -10,11 +10,6 @@
         by people who helped me and motivate me to keep working hard to follow my dreams. This is my first
         mobile application, hope you enjoy know a little bit more about myself!</string>
 
-    <string name="copy_rightText">© Copyright Graciele Maria Ludwig 2022</string>
-    <string name="buildWith">Built with Android Studio</string>
-
-
-    <string name="my_email">gracieleludwig@yahoo.com.br</string>
 
     <!--  ACTIVITY EDUCATION   -->
     <string name="EducationTitle">EDUCATION</string>
@@ -51,6 +46,18 @@
         a place for live with dignity, manage time to socialize and increase your network of friends.</string>
     <string name="returnButtonAchievements">HOME</string>
     <string name="exitButtonAchievements">EXIT</string>
+
+    <!--   EXIT APP   -->
+    <string name="ExitApp">EXIT</string>
+
+    <!--   COPY RIGHTS   -->
+    <string name="copy_rightText">© Copyright Graciele Maria Ludwig 2022</string>
+    <string name="buildWith">Built with Android Studio</string>
+
+    <!--   EMAIL TOAST   -->
+    <string name="my_email">gracieleludwig@yahoo.com.br</string>
+
+
 
 
 </resources>

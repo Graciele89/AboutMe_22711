@@ -53,6 +53,13 @@ class MainActivity : AppCompatActivity() {
             val intent = Intent(this, Achievements::class.java)
             startActivity(intent)
         }
+
+        val exitHomeButton = findViewById<ImageView>(R.id.exitHomeButton)
+        exitHomeButton.setOnClickListener{
+            finishAffinity()
+
+        }
+
         Toast.makeText(this, "gracieleludwig@yahoo.com.br", Toast.LENGTH_LONG).show()
     }
 }
